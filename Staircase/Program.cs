@@ -18,7 +18,14 @@ namespace Staircase
     {
         static void staircase(int n)
         {
-
+            
+            for (int i = 1; i <=n; i++)
+            {
+                Console.WriteLine(string.Concat(Enumerable.Repeat("#", i)).PadLeft(n));
+                
+            }
+            
+            
 
         }
 
