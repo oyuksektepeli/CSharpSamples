@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Stai
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxSum", "MinMaxSum\MinMaxSum.csproj", "{BB3DC6B2-0EE9-45DE-8312-8398A673B89D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BirthdayCakeCandles", "BirthdayCakeCandles\BirthdayCakeCandles.csproj", "{D36F373D-D47F-458F-81B5-4B1B9CBF6A5D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{BB3DC6B2-0EE9-45DE-8312-8398A673B89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3DC6B2-0EE9-45DE-8312-8398A673B89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3DC6B2-0EE9-45DE-8312-8398A673B89D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D36F373D-D47F-458F-81B5-4B1B9CBF6A5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D36F373D-D47F-458F-81B5-4B1B9CBF6A5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D36F373D-D47F-458F-81B5-4B1B9CBF6A5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D36F373D-D47F-458F-81B5-4B1B9CBF6A5D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
