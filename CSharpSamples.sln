@@ -11,9 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diagonal Difference", "Diag
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CompareTheTriplets", "CompareTheTriplets\CompareTheTriplets.csproj", "{A7816330-D5DF-4FE8-98E4-F60FF6BAEFB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{C75CD2FC-2C01-4E33-9CAA-085D8BA62383}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusMinus", "PlusMinus\PlusMinus.csproj", "{C75CD2FC-2C01-4E33-9CAA-085D8BA62383}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staircase", "Staircase\Staircase.csproj", "{473E6784-62B3-4DEB-8B44-F2B8CAB8AB29}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Staircase", "Staircase\Staircase.csproj", "{473E6784-62B3-4DEB-8B44-F2B8CAB8AB29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinMaxSum", "MinMaxSum\MinMaxSum.csproj", "{BB3DC6B2-0EE9-45DE-8312-8398A673B89D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{473E6784-62B3-4DEB-8B44-F2B8CAB8AB29}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{473E6784-62B3-4DEB-8B44-F2B8CAB8AB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{473E6784-62B3-4DEB-8B44-F2B8CAB8AB29}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB3DC6B2-0EE9-45DE-8312-8398A673B89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB3DC6B2-0EE9-45DE-8312-8398A673B89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB3DC6B2-0EE9-45DE-8312-8398A673B89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB3DC6B2-0EE9-45DE-8312-8398A673B89D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
